@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "ea87b6f39802c98e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d2027349bd1ce12",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "30 days of React/Object.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8101ab72682da9fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d614cc0b409a767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bbb25510a4a8272",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3aab7514d46ba08f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 186.5
+  },
+  "right": {
+    "id": "f8bb65db60974249",
+    "type": "split",
+    "children": [
+      {
+        "id": "6888fbdba08d220f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf01f22b27e7aadd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "30 days of React/Object.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "4d2027349bd1ce12",
+  "lastOpenFiles": [
+    "30 days of React/JS Refresher/Array.md",
+    "30 days of React/Object.md",
+    "REACT/LOOPs/While Loop.md",
+    "REACT/LOOPs/For Loop.md",
+    "CSS/Css.md",
+    "Internshala/cover letter.md",
+    "clarification/useState.md",
+    "Udmey/4)useEffect  Handeling Side Effects,Using reducers and using the context.md",
+    "REACT/callBack function.md",
+    "REACT/Api Methods/Api Methods.md"
+  ]
+}

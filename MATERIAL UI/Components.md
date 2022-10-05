@@ -1,0 +1,1 @@
+- **Modal** => The modal component provides a solid foundation for creating dialogs, popovers, lightboxes, or whatever else.   i.e shows the pop up.

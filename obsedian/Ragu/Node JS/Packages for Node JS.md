@@ -1,3 +1,0 @@
-- [Nodemon](https://www.npmjs.com/package/nodemon) - Refresh when any changes in files. Nodemon is only for development use.
-- [Pug](https://www.npmjs.com/package/pug), [Mustache](https://www.npmjs.com/package/mustache), EJS - Templating Engines will transfer HTML files through api.
-- [Helmet](https://www.npmjs.com/package/helmet) - helps to secure express JS app by setting various HTTP Headers.
