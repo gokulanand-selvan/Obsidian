@@ -1,4 +1,5 @@
 - Each value in an array has an _index_, and each index has _a reference in a memory address_. Each value can be accessed by using their _indexes_. The index of an array starts from _zero_, and the index of the last element is less by one from the length of the array.
+- *As you can see, an array, which is a non-primitive data type is mutable. Non-primitive data types cannot be compared by value. Even if two non-primitive data types have the same properties and values, they are not strictly equal.*
 - Array with initial values. We use _length_ property to find the length of an array.
 
 ```js
@@ -154,3 +155,5 @@ if (indexOfAvocado != -1) {
 }
 // This fruit does not exist in the array
 ```
+
+

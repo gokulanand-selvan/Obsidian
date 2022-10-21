@@ -1,6 +1,3 @@
-https://youtu.be/Fhu5cu864ag
-
-
 Show/Get data from array:
 
 ```js

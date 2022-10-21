@@ -15,5 +15,21 @@
       "key": "H"
     }
   ],
-  "editor:open-search-replace": []
+  "editor:open-search-replace": [],
+  "theme:use-dark": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "theme:use-light": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ]
 }

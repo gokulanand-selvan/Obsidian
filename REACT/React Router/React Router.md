@@ -20,7 +20,7 @@ yarn add react-router-dom@6
 **Configuring Routes :**
 
 *step 1:* 
-In Index.js  Add BrowserRouter to the App component.
+In Index.js  Add BrowserRouter to the App component. (Root of the components)
 
 ```js
 
@@ -69,7 +69,7 @@ In the browser search as localhost:3000/ =>it shows as the login page ,  localho
 
 ***3) Links :***
 
-Links helps to Navigate to different Routes in the UI
+Links helps to Navigate to different Routes in the UI. If we click it rout to that page.
 
 ```js
 
