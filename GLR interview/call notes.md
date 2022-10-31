@@ -1,0 +1,12 @@
+- It is a semi conductor company.
+- we use the software like react JS to develop the tool.
+- What is frequency?
+- component development questions.
+- state management from react.
+- oops concepts.
+- functions.
+- what is frequency, voltage, current, AC, DC, tamping, signals,
+- USB interface.
+- what is the power and the capability of the USB interface.
+- when we connected mart phone to the laptop how this data goes from mobile phone to the laptop.
+- when we send image phone to laptop how it converts data into digital signal and it goes through the cable to the laptop and the laptop reconstruct the image from the digital signal ,study the frequency and the protocol involved in that. **TCP IC** protocol **communication protocol in computer network subject**.

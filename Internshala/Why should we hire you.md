@@ -1,5 +1,4 @@
-You should hire me for this position because of my proven ability to build efficient front-end user interfaces in line with modern best practices. I have some experience in React framework, to develop front-end applications.
-
+I have ability to build efficient User interfaces with modern best practices. I have experience in React framework, to develop front-end applications.
 
 
 

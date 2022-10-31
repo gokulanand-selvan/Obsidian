@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "90976bd44307f7db",
+        "id": "a4948964fb1e3d3c",
         "type": "tabs",
         "children": [
           {
-            "id": "642aa43e8dd43ba9",
+            "id": "67d2b3dacb7dc237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDUX/4.Principles.md",
+                "file": "REDUX/5.Action.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9806f0e9c8a5f543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDUX/6.Reducers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62b8a4a89126458a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redux Toolkit/7.Redux Store (state).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDUX/4.Principles.md",
+                "file": "Redux Toolkit/7.Redux Store (state).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,20 +119,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "642aa43e8dd43ba9",
+  "active": "62b8a4a89126458a",
   "lastOpenFiles": [
-    "REDUX/3.Core Concepts.md",
-    "REDUX/4.Principles.md",
+    "Redux Toolkit/2.React + Redux.md",
+    "Redux Toolkit/1.Intoduction.md",
+    "Redux Toolkit/7.Redux Store (state).md",
+    "REDUX/6.Reducers.md",
     "REDUX/5.Action.md",
-    "REDUX/2.Settting up Redux.md",
-    "REDUX/1.Introduction.md",
-    "REACT/React Router/React Router.md",
-    "Internshala/gokul.md",
-    "chumma/chumma.md",
-    "chumma/ecomm.md",
-    "Internshala/cover letter.md"
+    "REDUX/Redux Store.md",
+    "REDUX/4.Principles.md",
+    "GLR interview/USB.md",
+    "GLR interview/call notes.md",
+    "REDUX/Images/Pasted image 20221027122802.png"
   ]
 }
